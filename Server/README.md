@@ -10,7 +10,7 @@ This Task Manager Application provides user authentication, task management, and
 - [Folder Structure](#folder-structure)
 - [API Routes](#api-routes)
 - [Usage](#usage)
-- [License](#license)
+
 
 ---
 
@@ -243,6 +243,4 @@ Replace `<taskId>` with the specific task ID. Requires Authorization header: `Be
 
 ---
 
-### License
 
-This project is licensed under the MIT License.
